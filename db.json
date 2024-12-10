@@ -1,0 +1,133 @@
+{
+  "product": {
+    "name": "Floral Printed Slip Dress",
+    "price": 1999.00,
+    "discount": 20,
+    "short_description": "A chic floral slip dress perfect for casual outings.",
+    "long_description": "This lightweight and breathable slip dress features a stunning floral print, adjustable straps, and a flowing silhouette. Perfect for summer outings or pairing with a jacket for cooler evenings.",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg",
+      "https://example.com/image3.jpg"
+    ],
+    "color_variants": [
+      {
+        "color_name": "Rose Pink",
+        "color_code": "#FFC0CB"
+      },
+      {
+        "color_name": "Sky Blue",
+        "color_code": "#87CEEB"
+      }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "size_guide": {
+      "url": "https://example.com/sizeguide",
+      "description": "Refer to our size guide for the perfect fit."
+    },
+    "washing_instructions": "Machine wash cold. Do not bleach. Tumble dry low.",
+    "service_policy": "30-day return policy. Free exchanges available.",
+    "ratings": {
+      "overall": 4.5,
+      "recommended": 90,
+      "size_fit": 4.3,
+      "quality": 4.7
+    },
+    "reviews": [
+      {
+        "description": "Loved the quality and fit of the dress. Perfect for summer!",
+        "title": "Great Purchase!",
+        "reviewer_name": "Aarushi M.",
+        "purchase_date": "2024-11-01",
+        "found_helpful_count": 15,
+        "review_images": ["https://example.com/review1.jpg"]
+      },
+      {
+        "description": "Beautiful print, but the size runs slightly large.",
+        "title": "Lovely but size up!",
+        "reviewer_name": "Simran K.",
+        "purchase_date": "2024-10-15",
+        "found_helpful_count": 8,
+        "review_images": []
+      },
+      {
+        "description": "The fabric feels luxurious. Worth every penny.",
+        "title": "Amazing quality!",
+        "reviewer_name": "Meera J.",
+        "purchase_date": "2024-09-22",
+        "found_helpful_count": 10,
+        "review_images": ["https://example.com/review2.jpg"]
+      },
+      {
+        "description": "Received compliments every time I wore it.",
+        "title": "Stunning dress!",
+        "reviewer_name": "Rhea D.",
+        "purchase_date": "2024-10-01",
+        "found_helpful_count": 12,
+        "review_images": []
+      },
+      {
+        "description": "Good for casual outings but not formal enough.",
+        "title": "Casual yet elegant.",
+        "reviewer_name": "Kritika L.",
+        "purchase_date": "2024-11-10",
+        "found_helpful_count": 5,
+        "review_images": []
+      },
+      {
+        "description": "Straps are adjustable, which is a big plus!",
+        "title": "Comfortable fit.",
+        "reviewer_name": "Ananya R.",
+        "purchase_date": "2024-10-25",
+        "found_helpful_count": 7,
+        "review_images": []
+      },
+      {
+        "description": "Prints are vibrant, and the dress flows beautifully.",
+        "title": "Lovely prints.",
+        "reviewer_name": "Divya P.",
+        "purchase_date": "2024-09-15",
+        "found_helpful_count": 9,
+        "review_images": ["https://example.com/review3.jpg"]
+      },
+      {
+        "description": "Lightweight and perfect for travel.",
+        "title": "Travel-friendly.",
+        "reviewer_name": "Neha S.",
+        "purchase_date": "2024-08-30",
+        "found_helpful_count": 6,
+        "review_images": []
+      },
+      {
+        "description": "Fabric is a bit thin for my taste.",
+        "title": "Okay, but not great.",
+        "reviewer_name": "Pooja G.",
+        "purchase_date": "2024-09-10",
+        "found_helpful_count": 4,
+        "review_images": []
+      },
+      {
+        "description": "Absolutely love the way it fits. Will buy another color!",
+        "title": "Perfect fit.",
+        "reviewer_name": "Tanvi T.",
+        "purchase_date": "2024-11-20",
+        "found_helpful_count": 11,
+        "review_images": []
+      }
+    ],
+    "delivery_config": {
+      "delivery_charges": 50,
+      "free_delivery_threshold": 1000,
+      "delivery_regions": [
+        {
+          "region_name": "Metro Cities",
+          "delivery_time_estimate": "2-4 days"
+        },
+        {
+          "region_name": "Rural Areas",
+          "delivery_time_estimate": "5-7 days"
+        }
+      ]
+    }
+  }
+}
